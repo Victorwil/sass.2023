@@ -1,2 +1,2 @@
-# sass.2023
+# sass_2023
 sass kode
